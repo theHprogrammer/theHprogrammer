@@ -8,7 +8,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helderhsilva&layout=compact&langs_count=7&theme=ocean_dark"/>
 </div>
 
+<div align="center">
   
-<div>
   ![Snake animation](https://github.com/helderhsilva/helderhsilva/blob/output/github-contribution-grid-snake.svg)
+  
 </div>
