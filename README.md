@@ -58,7 +58,7 @@
 <h3 align="left">🤓 More about me! 🤓</h3>
   
 <div style="display: inline_block"  >
-  <img align="right" width="250" height="250" style="border-radius:30px;" src="?raw=true" />
+  <img align="right" width="250" height="250" style="border-radius:30px;" src="hero.gif?raw=true" />
   <p> - 👨‍🎓 Computer Engineering Student at UFSC - Currently in the third semester. </p>
   <p> - 👨‍💻 Project Director at EJEC - Junior Company of Computer Enfineering at UFSC - Araranguá. </p>
   <p> - 🎯 Interests: Python, C, C++, Hardware Development, HTML, CSS, TypeScript, React.js, Node.js, UI/UX and React Native. </p>
