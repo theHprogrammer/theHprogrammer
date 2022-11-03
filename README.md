@@ -56,7 +56,6 @@
 <div style="display: inline_block"  >
   <img align="right" width="200" height="200" style="border-radius:30px;" src="hero.gif?raw=true" />
   <p> - 👨‍🎓 Computer Engineering Student at UFSC - Currently in the fourth phase, but with a foot in others </p>
-  <p> - 👨‍💻 Development team manager at RA schools - Natural Sciences, at LabTeC - Lab. of Computational Technologies - UFSC </p>
   <p> - 🎯 Interests: Python, C, C++, Hardware Development, HTML, CSS, TypeScript, React.js, Node.js... </p>
   <p> - 🥅 Goal: To create a more just and hopeful world for the people who really need it. </p>
   <p> - ❤️ Hobbies: Games, poems and martial arts. </p>
