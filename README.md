@@ -28,13 +28,9 @@
 
 <h2 align="center">✔️ My Stats ✔️</h2>
 
-<div align="center">
- <div align="center"> 
-  <h3> 🕵️ Visitors: </h3> <img alingn="center" src="https://profile-counter.glitch.me/helderhsilva/count.svg" />
- </div>
-  
- <br>
+![](https://komarev.com/ghpvc/?username=helderhsilva&color=blueviolet)
 
+<div align="center">
 </p>
   
   <a href="https://github.com/helderhsilva">
@@ -55,8 +51,8 @@
   
 <div style="display: inline_block"  >
   <img align="right" width="200" height="200" style="border-radius:30px;" src="hero.gif?raw=true" />
-  <p> - 👨‍🎓 Computer Engineering Student at UFSC - Currently in the fourth phase, but with a foot in others </p>
-  <p> - 🎯 Interests: Python, C, C++, Hardware Development, HTML, CSS, TypeScript, React.js, Node.js... </p>
+  <p> - 👨‍🎓 Computer Engineering Student at UFSC - Currently in the sixth phase, graduation in 2024.2 </p>
+  <p> - 🎯 Interests: Python, C, C++, Hardware Development, Cybersecurity. </p>
   <p> - 🥅 Goal: To create a more just and hopeful world for the people who really need it. </p>
   <p> - ❤️ Hobbies: Games, poems and martial arts. </p>
 </div>
@@ -66,21 +62,12 @@
 <h2 align="center"> 📈 Skills! ✌️</h2>
 
 <div align="center">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> 
-</div>
-
-<br>
-
-<div align="center">
     <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white">
+  
 </div>
