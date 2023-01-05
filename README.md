@@ -31,14 +31,12 @@
 ![](https://komarev.com/ghpvc/?username=helderhsilva&color=blueviolet)
 
 <div align="center">
-</p>
+
+  [![Helder's GitHub stats](https://github-readme-stats.vercel.app/api?username=helderhsilva&count_private=true&show_icons=true&theme=transparent)](https://github.com/helderhsilva)
+  </br>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=helderhsilva&layout=compact&&count_private=true&show_icons=true&theme=transparent)](https://github.com/helderhsilva)
   
-  <a href="https://github.com/helderhsilva">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=helderhsilva&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helderhsilva&layout=compact&langs_count=7&theme=ocean_dark"/>
 </div>
-  
-<br>
 
 <div align="center">
   
