@@ -28,7 +28,12 @@
 
 <h2 align="center">✔️ My Stats ✔️</h2>
 
-![](https://komarev.com/ghpvc/?username=helderhsilva&color=blueviolet)
+
+<div align="center">
+
+  ![](https://komarev.com/ghpvc/?username=helderhsilva&color=blueviolet)
+  
+</div>
 
 <div align="center">
 
