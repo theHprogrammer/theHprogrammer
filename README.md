@@ -37,12 +37,6 @@
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=helderhsilva&layout=compact&&count_private=true&show_icons=true&theme=transparent)](https://github.com/helderhsilva)
   
 </div>
-
-<div align="center">
-  
-  ![Snake animation](https://github.com/helderhsilva/helderhsilva/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
   
 <h2 align="center"> Hi, my name is Helder! ✌️</h2>
 <h3 align="left">🤓 More about me! 🤓</h3>
