@@ -17,8 +17,6 @@
   <p> - ❤️ Hobbies: Games, poems and martial arts. </p>
 </div>
 
----
-
 <h2 align="center"> Tools I use!</h2>
 
 </br>
@@ -34,7 +32,7 @@
   
 </div>
 
-<br>
+---
 
 <div align="center">
 
