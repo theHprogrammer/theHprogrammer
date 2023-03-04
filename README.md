@@ -40,11 +40,11 @@
 
 </br>
 
-[![theHprogrammer stats](https://github-readme-stats.vercel.app/api?username=theHprogrammer&count_private=true&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&include_orgs=true&theme=transparent)](https://github.com/theHprogrammer)
+[![theHprogrammer stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=theHprogrammer&count_private=true&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&include_orgs=true&theme=transparent)](https://github.com/theHprogrammer)
 
 </br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theHprogrammer&layout=compact&count_private=true&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&include_orgs=true&theme=transparent)](https://github.com/theHprogrammer)
+[![Top Langs](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=theHprogrammer&layout=compact&count_private=true&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&include_orgs=true&theme=transparent)](https://github.com/theHprogrammer)
 
 </div>
 
