@@ -1,11 +1,3 @@
-<p align="center">
-  <a href="#">
-    <img align="center" src="HelloHelder.gif" />
-  </a>
-</p>
-
-</br>
-
 <h1 align="center"> Hi, my name is Helder! ✌️</h1>
 
 ![](https://komarev.com/ghpvc/?username=theHprogrammer&color=blueviolet)
