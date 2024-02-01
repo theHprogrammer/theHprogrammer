@@ -4,7 +4,7 @@
   
 <div style="display: inline_block"  >
   <p> - 👨‍🎓 Computer Engineering Student at UFSC - Currently in the sixth phase, graduation in 2024.2 </p>
-  <p> - 🎯 Interests: Python, C, C++, Hardware Development, Cybersecurity. </p>
+  <p> - 🎯 Interests: Python, Data Science, Machine Learning, Artificial Inteligence, C/C++ and Hardware Development. </p>
   <p> - 🥅 Goal: To create a more just and hopeful world for the people who really need it. </p>
   <p> - ❤️ Hobbies: Games, poems and martial arts. </p>
 </div>
