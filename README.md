@@ -1,4 +1,4 @@
-<h1 align="center"> Hi, my name is Helder! ✌️</h1>
+[<h1 align="center"> Hi, my name is Helder! ✌️</h1>
 
 ![](https://komarev.com/ghpvc/?username=theHprogrammer&color=blueviolet)
   
@@ -61,3 +61,4 @@
         <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:hhshelder.eng@gmail.com">
     </a>
 </div>
+](https://github.com/theHprogrammer/dio-lab-open-source)https://github.com/theHprogrammer/dio-lab-open-source
