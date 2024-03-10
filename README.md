@@ -9,6 +9,8 @@
   <p> - ❤️ Hobbies: Games, poems and martial arts. </p>
 </div>
 
+[Confira aqui meus trabalhos realizados na faculdade](https://github.com/theHprogrammer-UFSCWORKS)
+
 <h2 align="center"> Tools I use!</h2>
 
 </br>
