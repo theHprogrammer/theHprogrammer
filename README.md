@@ -1,19 +1,31 @@
-<h1 align="center"> Hi, my name is Helder! ✌️</h1>
+<h1 align="center">Helder Henrique da Silva</h1>
 
-![](https://api.visitorbadge.io/api/VisitorHit?user=theHprogrammer&repo=github-visitors-badge&countColor=%237B1E7A)
-  
-<div style="display: inline_block"  >
-  <p> - 👨‍🎓 Computer Engineering Student at UFSC, graduation in 2024.2 </p>
-  <p> - 🎯 Interests: Python, Data Science, Machine Learning, Artificial Inteligence. </p>
-  <p> - 🥅 Goal: To create a more just and hopeful world for the people who really need it. </p>
-  <p> - ❤️ Hobbies: Games, poems and martial arts. </p>
-</div>
+![](https://visitor-badge.laobi.icu/badge?page_id=theHprogrammer.theHprogrammer)
+[![Github](https://img.shields.io/github/followers/theHprogrammer?label=Follow&style=social)](https://github.com/theHprogrammer)
 
-[Confira aqui meus trabalhos realizados na faculdade](https://github.com/theHprogrammer-UFSCWORKS)
+## About me
 
-<h2 align="center"> Tools I use!</h2>
+- 👨‍🎓 Computer Engineering Student at UFSC, graduation in 2024.2
+- 🎯 Interests: Python, Data Science, Machine Learning, Artificial Inteligence.
+- 🥅 Goal: To create a more just and hopeful world for the people who really need it.
+- ❤️ Hobbies: Games, poems and martial arts.
 
-</br>
+ ### Organization of repositories:
+- [UFSC_WORKS](https://github.com/theHprogrammer-UFSCWORKS) - Repository for work carried out during college.
+- [UFSC_CLASS](#) - Repository for knowledge management of college subjects.
+- [CURSES](#) - Repository for courses taken.
+- [FORKS](#) - Repository for test forks.
+- [TRASH_TESTS](#) - Random testing repository.
+
+### Social Media
+
+[![Github Badge](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/theHprogrammer)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/theHprogrammer/)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/theHprogrammer/)
+[![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UC0oSqkRhIz82pcjx1WRIZnA)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:hhshelder.eng@gmail.com)
+
+<h2 align="center">Performance and Tools</h1>
 
 <div align="center">
     <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
@@ -48,22 +60,3 @@
 
 <br>
 
-<h2 align="center"> Follow Me!</h2>
-
-<div align="center">
-    <a href="https://github.com/theHprogrammer">
-        <img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/theHprogrammer">
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/theHprogrammer/">
-        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/theHprogrammer/">
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.instagram.com/theHprogrammer/">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=mailto:https://www.instagram.com/theHprogrammer/">
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="mailto:hhshelder.eng@gmail.com">
-        <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:hhshelder.eng@gmail.com">
-    </a>
-</div>
