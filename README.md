@@ -27,7 +27,7 @@
  ### Organization of repositories:
 - [UFSC_WORKS](https://github.com/theHprogrammer-UFSCWORKS) - Repository for work carried out during college.
 - [UFSC_CLASS](#) - Repository for knowledge management of college subjects.
-- [CURSES](#) - Repository for courses taken.
+- [COURSES](https://github.com/theHprogrammer-COURSES) - Repository for courses taken.
 - [FORKS](#) - Repository for test forks.
 - [TRASH_TESTS](#) - Random testing repository.
 
@@ -36,6 +36,9 @@
 <div align="center">
 
 [![theHprogrammer stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=theHprogrammer&include_orgs=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&count_private=true&show_icons=true&theme=transparent)](https://github.com/theHprogrammer)
+
+<br>
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=theHprogrammer&theme=transparent&bdates=FFF)](https://github.com/theHprogrammer)
 
 <br>
