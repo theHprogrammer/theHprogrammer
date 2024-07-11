@@ -26,10 +26,10 @@
 
  ### Organization of repositories:
 - [UFSC_WORKS](https://github.com/theHprogrammer-UFSCWORKS) - Repository for work carried out during college.
-- [UFSC_CLASS](#) - Repository for knowledge management of college subjects.
+- [UFSC_CLASS](https://github.com/theHprogrammerUFSC) - Repository for knowledge management of college subjects.
 - [COURSES](https://github.com/theHprogrammer-COURSES) - Repository for courses taken.
 - [FORKS](https://github.com/theHprogrammer-FORKS) - Repository for test forks.
-- [TRASH_TESTS](#) - Random testing repository.
+- [TRASH_TESTS](https://github.com/TRASH-TESTS) - Random testing repository.
 
 <h2 align="center">Performance and Tools</h1>
 
