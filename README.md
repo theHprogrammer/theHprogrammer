@@ -19,17 +19,15 @@
 
 ## About me
 
-- 👨‍🎓 Computer Engineering Student at UFSC, graduation in 2024.2
-- 🎯 Interests: Python, Data Science, Machine Learning, Artificial Inteligence.
-- 🥅 Goal: To create a more just and hopeful world for the people who really need it.
-- ❤️ Hobbies: Games, poems and martial arts.
+- 👨‍🎓 Computer Engineer from UFSC (Federal University of Santa Catarina)
+- 🎯 Interests: Python, Artificial Inteligence, Machine Learning, Data Science.
+- 🥅 Goal: Create a more just and hopeful world for those who really need it.
+- ❤️ Hobbies: Games, Kendo, Karate.
 
  ### Organization of repositories:
-- [UFSC_WORKS](https://github.com/theHprogrammer-UFSCWORKS) - Repository for work carried out during college.
-- [UFSC_CLASS](https://github.com/theHprogrammerUFSC) - Repository for knowledge management of college subjects.
-- [COURSES](https://github.com/theHprogrammer-COURSES) - Repository for courses taken.
-- [FORKS](https://github.com/theHprogrammer-FORKS) - Repository for test forks.
-- [TRASH_TESTS](https://github.com/TRASH-TESTS) - Random testing repository.
+- [ufsc-repo](#) - Repository for work and classes during undergraduate studies. - maintenance
+- [courses-repo](#) - Repository for courses taken. - maintenance
+- [tests-repo](#) - Random testing repository. - maintenance
 
 <h2 align="center">Performance and Tools</h1>
 
@@ -50,14 +48,28 @@
 ---
 
 <div align="center">
-    <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql">  
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">
+    &nbsp;&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
+    &nbsp;&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white">
+    &nbsp;&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white">
+    &nbsp;&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624">
-
+    &nbsp;&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+    &nbsp;&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql">
+    &nbsp;&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+    &nbsp;&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white">
+    &nbsp;&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white">
+    &nbsp;&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white">
 </div>
+
