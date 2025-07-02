@@ -25,9 +25,9 @@
 - ❤️ Hobbies: Games, Kendo, Karate.
 
  ### Organization of repositories:
-- [ufsc-repo](#) - Repository for work and classes during undergraduate studies. - maintenance
-- [courses-repo](#) - Repository for courses taken. - maintenance
-- [tests-repo](#) - Random testing repository. - maintenance
+- [ufsc-repo](https://github.com/ufsc-repo) - Repository for work and classes during undergraduate studies.
+- [courses-repo](https://github.com/courses-repo) - Repository for courses taken.
+- [tests-repo](https://github.com/tests-repo) - Random testing repository.
 
 <h2 align="center">Performance and Tools</h1>
 
